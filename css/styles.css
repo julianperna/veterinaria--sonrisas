@@ -1,0 +1,51 @@
+.actions-menu {
+  padding: 10px;
+  margin: 0;
+}
+
+.actions-menu h1 {
+  margin-bottom: 20px;
+}
+p {
+  padding: 0px;
+}
+img {
+  width: 100%;
+  height: auto;
+}
+.form-row {
+  padding: 20px 0px;
+}
+body {
+  background-color: white;
+  background-size: 100%;
+}
+h1 {
+  padding: 60px 0px 0px;
+  color: #6b6968;
+}
+.barra {
+  background-color: #16c79a;
+}
+.huella {
+  font-size: 30px;
+}
+div.table-responsive {
+  padding: 10px 0px;
+}
+.icono {
+  font-size: 30px;
+}
+a {
+  font-size: 20px;
+}
+.boton {
+  margin: 20px 0px;
+}
+img {
+  display: block;
+  margin: auto;
+}
+.texto {
+  text-align: center;
+}
