@@ -27,6 +27,12 @@ h1 {
 .barra {
   background-color: #16c79a;
 }
+.navbar-light .navbar-brand {
+    color: #212529;
+}
+.navbar-light .navbar-nav .nav-link {
+  color: #212529;
+}
 .huella {
   font-size: 30px;
 }
@@ -42,10 +48,17 @@ a {
 .boton {
   margin: 20px 0px;
 }
+.btn.boton{
+  background-color: #16C79A;
+  border: #16C79A;
+  color: #212529;
+  font-weight: bold;
+}
 img {
   display: block;
   margin: auto;
 }
 .texto {
   text-align: center;
+color: #212529;
 }
